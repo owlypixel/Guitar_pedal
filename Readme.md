@@ -1,5 +1,5 @@
 ## Guitar pedal
-![Guitar pedal screenshot](https://github.com/owlypixel/css_overdrive_pedal/raw/master/assets/screenshot.png)
+![Guitar pedal screenshot](https://github.com/owlypixel/Guitar_pedal/raw/master/assets/screenshot.png)
 
 ## What is this?
 Have you ever seen a guitar pedal done in pure CSS? Now you have! This project's main challenge was to try to recreate a look of a simpe guitar pedal as close to original as possible. Well, you can see for yourself what the final version looks like. Of course being a huge owl enthusiast, I couldn't miss the chance to stuff an owly logo on it. Enjoy!
