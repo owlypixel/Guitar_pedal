@@ -3,7 +3,7 @@
 
 ## What is this?
 Have you ever seen a guitar pedal done in pure CSS? Now you have! This project's main challenge was to try to recreate a look of a simpe guitar pedal as close to original as possible. Well, you can see for yourself what the final version looks like. Of course being a huge owl enthusiast, I couldn't miss the chance to stuff an owly logo on it. Enjoy!
-You can play around and experiment with it [here](http://codepen.io/owlypixel/pen/BQKZzq) on CodePen. 
+You can play around and experiment with it [here](https://codepen.io/owlypixel/pen/BQKZzq) on CodePen. 
 ## What you'll learn from this
 ### JS
 - Some simple JQuery code to toggle class of the element (turning led of the pedal on and off)
